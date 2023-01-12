@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "
+    "url": "https://github.com/shivanireddykatta/online_voting_system_.git"
   },
   "author": "Shivani",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Vineeth-07/Online_Voting_Application/issues"
+    "url": "https://github.com/shivanireddykatta/online_voting_system_.git/issues"
   },
-  "homepage": "https://github.com/Vineeth-07/Online_Voting_Application#readme",
+  "homepage": "https://github.com/shivanireddykatta/online_voting_system_.git#readme",
   "devDependencies": {
     "cheerio": "^1.0.0-rc.12",
     "eslint": "^8.30.0",
